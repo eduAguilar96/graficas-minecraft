@@ -1,6 +1,8 @@
 # graficas-minecraft
 Proyecto Final Graficas computacionales Tec de Monterrey
 
+[Video Entrega 2.0](https://www.youtube.com/watch?v=dPrY2b-DmZs)
+
 [Video Entrega](https://www.youtube.com/watch?v=as5WYMo0YqA)
 
 Made with:
